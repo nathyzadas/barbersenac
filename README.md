@@ -1,4 +1,4 @@
-# <div align="center">💈 Seja bem vindo a Barbearia Duhel! ✂️</div>
+# <div align="center">💈 Seja bem vindo a Barbearia Four Barber! ✂️</div>
 
 ### <div align="center">💻 Projeto realizado na aula de Programação Web II, com o bjetivo de exercitar a integração do front-end, back-end e o banco de dados.</div>
 
